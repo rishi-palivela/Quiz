@@ -1,0 +1,55 @@
+[
+    {
+        "question": "Who invented vaccine for small pox?",
+        "correctAns": 0,
+        "options": [
+            "Edward jenner",
+            "Marie curie",
+            "Alexander Fleming",
+            "Richard Dawkins",
+        ]
+    },
+    {
+        "question": "Who is called missile man of india?",
+        "correctAns": 1,
+        "options": [
+            "Mahatma Gandhi",
+            "Abdul Kalam",
+            "Sardar Vallabhai Patel",
+            "Vidyasagar"
+        ]
+    },
+    {
+        "question": "Who is the first Indian Nobel Laureate?",
+        "correctAns": 3,
+        "options": [
+            "Sarojini Naidu",
+            "Abhijit Benerjee",
+            "C.V.Raman",
+            "Rabindranath Tagore"
+        ]
+    },
+    {
+        "question": "Which is smallest country in the world?",
+        "correctAns": 0,
+        "options": [
+            "Vatican city",
+            "Singapore",
+            "Monaco",
+            "San Marino"
+        ]
+    },
+    {
+        "question": "Land of White Elephants?",
+        "correctAns": 2,
+        "options": [
+            "Indonasia",
+            "Combodia",
+            "Thailand",
+            "Vietnam"
+        ]
+    },
+
+
+
+]
